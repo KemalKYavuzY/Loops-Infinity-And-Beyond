@@ -1,4 +1,4 @@
-package LoopsInfinityAndBeyond;
+package Loops;
 
 /**
 * Utility class with static methods for loop practice.
